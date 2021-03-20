@@ -1,2 +1,2 @@
 # git-inicial
-prueba
+Esta es una prueba de descripción de mi proyecto
